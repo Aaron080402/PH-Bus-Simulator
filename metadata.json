@@ -1,0 +1,6 @@
+{
+  "name": "PH Bus Simulator",
+  "description": "Realistic Philippine highway & city bus driving simulator with NLEX/SLEX tollgates, traffic light systems, dynamic weather, CCTV feeds, passenger management, and cockpit telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
